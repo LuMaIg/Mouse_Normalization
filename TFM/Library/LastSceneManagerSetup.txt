@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/Scenes/Encrucijada_Laberinto_Cinem\xE1tica_Resp4.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
